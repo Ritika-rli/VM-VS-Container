@@ -1,0 +1,13 @@
+environment,benchmark,metric,unit,runs,mean,std_dev,minimum,maximum
+macOS Host,CPU,elapsed_time,seconds,3,1.149400,0.003600,1.145800,1.153000
+Ubuntu VM,CPU,elapsed_time,seconds,3,1.150367,0.007007,1.142900,1.156800
+Docker in Ubuntu VM,CPU,elapsed_time,seconds,3,1.188700,0.014127,1.175100,1.203300
+macOS Host,Memory,wall_time,seconds,3,3.170000,0.026458,3.150000,3.200000
+Ubuntu VM,Memory,wall_time,seconds,3,3.226667,0.046188,3.200000,3.280000
+Docker in Ubuntu VM,Memory,wall_time,seconds,3,3.193333,0.005774,3.190000,3.200000
+macOS Host,Disk,write_time,seconds,3,0.186667,0.218701,0.059800,0.439200
+Ubuntu VM,Disk,write_time,seconds,3,0.173033,0.114203,0.094200,0.304000
+Docker in Ubuntu VM,Disk,write_time,seconds,3,0.106500,0.029895,0.075700,0.135400
+macOS Host,Disk,read_time,seconds,3,0.217133,0.009258,0.208100,0.226600
+Ubuntu VM,Disk,read_time,seconds,3,0.187767,0.001222,0.186700,0.189100
+Docker in Ubuntu VM,Disk,read_time,seconds,3,0.187433,0.001604,0.185900,0.189100

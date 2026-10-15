@@ -1,0 +1,12 @@
+Actual macOS host run 1
+Iterations: 500000
+Elapsed seconds: 1.1458
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Actual macOS host run 2
+Iterations: 500000
+Elapsed seconds: 1.1494
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Actual macOS host run 3
+Iterations: 500000
+Elapsed seconds: 1.1530
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742

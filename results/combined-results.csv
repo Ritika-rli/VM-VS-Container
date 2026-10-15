@@ -1,0 +1,37 @@
+environment,benchmark,metric,run,value,unit
+macOS Host,CPU,elapsed_time,1,1.1458,seconds
+macOS Host,CPU,elapsed_time,2,1.1494,seconds
+macOS Host,CPU,elapsed_time,3,1.153,seconds
+Ubuntu VM,CPU,elapsed_time,1,1.1568,seconds
+Ubuntu VM,CPU,elapsed_time,2,1.1514,seconds
+Ubuntu VM,CPU,elapsed_time,3,1.1429,seconds
+Docker in Ubuntu VM,CPU,elapsed_time,1,1.1751,seconds
+Docker in Ubuntu VM,CPU,elapsed_time,2,1.2033,seconds
+Docker in Ubuntu VM,CPU,elapsed_time,3,1.1877,seconds
+macOS Host,Memory,wall_time,1,3.2,seconds
+macOS Host,Memory,wall_time,2,3.16,seconds
+macOS Host,Memory,wall_time,3,3.15,seconds
+Ubuntu VM,Memory,wall_time,1,3.28,seconds
+Ubuntu VM,Memory,wall_time,2,3.2,seconds
+Ubuntu VM,Memory,wall_time,3,3.2,seconds
+Docker in Ubuntu VM,Memory,wall_time,1,3.2,seconds
+Docker in Ubuntu VM,Memory,wall_time,2,3.19,seconds
+Docker in Ubuntu VM,Memory,wall_time,3,3.19,seconds
+macOS Host,Disk,write_time,1,0.4392,seconds
+macOS Host,Disk,write_time,2,0.061,seconds
+macOS Host,Disk,write_time,3,0.0598,seconds
+Ubuntu VM,Disk,write_time,1,0.304,seconds
+Ubuntu VM,Disk,write_time,2,0.0942,seconds
+Ubuntu VM,Disk,write_time,3,0.1209,seconds
+Docker in Ubuntu VM,Disk,write_time,1,0.1354,seconds
+Docker in Ubuntu VM,Disk,write_time,2,0.0757,seconds
+Docker in Ubuntu VM,Disk,write_time,3,0.1084,seconds
+macOS Host,Disk,read_time,1,0.2081,seconds
+macOS Host,Disk,read_time,2,0.2266,seconds
+macOS Host,Disk,read_time,3,0.2167,seconds
+Ubuntu VM,Disk,read_time,1,0.1891,seconds
+Ubuntu VM,Disk,read_time,2,0.1875,seconds
+Ubuntu VM,Disk,read_time,3,0.1867,seconds
+Docker in Ubuntu VM,Disk,read_time,1,0.1891,seconds
+Docker in Ubuntu VM,Disk,read_time,2,0.1873,seconds
+Docker in Ubuntu VM,Disk,read_time,3,0.1859,seconds

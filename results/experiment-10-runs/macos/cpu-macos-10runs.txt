@@ -1,0 +1,40 @@
+===== macOS cpu run 1 =====
+Iterations: 500000
+Elapsed seconds: 1.1268
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 2 =====
+Iterations: 500000
+Elapsed seconds: 1.1474
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 3 =====
+Iterations: 500000
+Elapsed seconds: 1.1170
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 4 =====
+Iterations: 500000
+Elapsed seconds: 1.1288
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 5 =====
+Iterations: 500000
+Elapsed seconds: 1.1266
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 6 =====
+Iterations: 500000
+Elapsed seconds: 1.1429
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 7 =====
+Iterations: 500000
+Elapsed seconds: 1.1307
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 8 =====
+Iterations: 500000
+Elapsed seconds: 1.1256
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 9 =====
+Iterations: 500000
+Elapsed seconds: 1.1330
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+===== macOS cpu run 10 =====
+Iterations: 500000
+Elapsed seconds: 1.1178
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742

@@ -1,0 +1,50 @@
+===== ubuntu-vm memory run 1 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.36 seconds
+===== ubuntu-vm memory run 2 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.19 seconds
+===== ubuntu-vm memory run 3 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.20 seconds
+===== ubuntu-vm memory run 4 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.20 seconds
+===== ubuntu-vm memory run 5 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.19 seconds
+===== ubuntu-vm memory run 6 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.18 seconds
+===== ubuntu-vm memory run 7 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.19 seconds
+===== ubuntu-vm memory run 8 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.18 seconds
+===== ubuntu-vm memory run 9 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.18 seconds
+===== ubuntu-vm memory run 10 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+Outer wall time: 3.18 seconds

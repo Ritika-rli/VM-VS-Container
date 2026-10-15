@@ -1,0 +1,50 @@
+===== macOS disk run 1 =====
+File size: 256 MiB
+Write time: 0.0564 seconds
+Read time: 0.2030 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 2 =====
+File size: 256 MiB
+Write time: 0.0620 seconds
+Read time: 0.2076 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 3 =====
+File size: 256 MiB
+Write time: 0.0631 seconds
+Read time: 0.2061 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 4 =====
+File size: 256 MiB
+Write time: 0.0839 seconds
+Read time: 0.2125 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 5 =====
+File size: 256 MiB
+Write time: 0.0619 seconds
+Read time: 0.2144 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 6 =====
+File size: 256 MiB
+Write time: 0.0623 seconds
+Read time: 0.2084 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 7 =====
+File size: 256 MiB
+Write time: 0.0821 seconds
+Read time: 0.2113 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 8 =====
+File size: 256 MiB
+Write time: 0.0622 seconds
+Read time: 0.2073 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 9 =====
+File size: 256 MiB
+Write time: 0.0620 seconds
+Read time: 0.2064 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+===== macOS disk run 10 =====
+File size: 256 MiB
+Write time: 0.0618 seconds
+Read time: 0.2068 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9

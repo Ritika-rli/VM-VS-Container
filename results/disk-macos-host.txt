@@ -1,0 +1,15 @@
+macOS host disk run 1
+File size: 256 MiB
+Write time: 0.4392 seconds
+Read time: 0.2081 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+macOS host disk run 2
+File size: 256 MiB
+Write time: 0.0610 seconds
+Read time: 0.2266 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+macOS host disk run 3
+File size: 256 MiB
+Write time: 0.0598 seconds
+Read time: 0.2167 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9

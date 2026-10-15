@@ -1,0 +1,13 @@
+environment,benchmark,metric,unit,runs,mean,std_dev,minimum,maximum
+macOS host,cpu,elapsed_time,seconds,10,1.12966,0.009649,1.117,1.1474
+macOS host,memory,wall_time,seconds,10,3.147,0.026687,3.13,3.22
+macOS host,disk,write_time,seconds,10,0.06577,0.009275,0.0564,0.0839
+macOS host,disk,read_time,seconds,10,0.20838,0.003401,0.203,0.2144
+ubuntu-vm,cpu,elapsed_time,seconds,10,1.15304,0.015399,1.1414,1.1919
+ubuntu-vm,memory,wall_time,seconds,10,3.205,0.055025,3.18,3.36
+ubuntu-vm,disk,write_time,seconds,10,0.14153,0.073285,0.0926,0.3449
+ubuntu-vm,disk,read_time,seconds,10,0.1876,0.001138,0.1865,0.1901
+docker,cpu,elapsed_time,seconds,10,1.17276,0.003763,1.1673,1.1793
+docker,memory,wall_time,seconds,10,3.381,0.007379,3.37,3.39
+docker,disk,write_time,seconds,10,0.10417,0.029165,0.0756,0.1524
+docker,disk,read_time,seconds,10,0.19037,0.007977,0.1864,0.2113

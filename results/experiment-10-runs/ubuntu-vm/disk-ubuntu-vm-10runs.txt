@@ -1,0 +1,60 @@
+===== ubuntu-vm disk run 1 =====
+File size: 256 MiB
+Write time: 0.3449 seconds
+Read time: 0.1901 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.56 seconds
+===== ubuntu-vm disk run 2 =====
+File size: 256 MiB
+Write time: 0.1537 seconds
+Read time: 0.1879 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.36 seconds
+===== ubuntu-vm disk run 3 =====
+File size: 256 MiB
+Write time: 0.1232 seconds
+Read time: 0.1868 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.33 seconds
+===== ubuntu-vm disk run 4 =====
+File size: 256 MiB
+Write time: 0.1084 seconds
+Read time: 0.1881 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.32 seconds
+===== ubuntu-vm disk run 5 =====
+File size: 256 MiB
+Write time: 0.1027 seconds
+Read time: 0.1868 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.31 seconds
+===== ubuntu-vm disk run 6 =====
+File size: 256 MiB
+Write time: 0.1194 seconds
+Read time: 0.1870 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.32 seconds
+===== ubuntu-vm disk run 7 =====
+File size: 256 MiB
+Write time: 0.1274 seconds
+Read time: 0.1877 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.33 seconds
+===== ubuntu-vm disk run 8 =====
+File size: 256 MiB
+Write time: 0.0926 seconds
+Read time: 0.1865 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.30 seconds
+===== ubuntu-vm disk run 9 =====
+File size: 256 MiB
+Write time: 0.1207 seconds
+Read time: 0.1865 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.32 seconds
+===== ubuntu-vm disk run 10 =====
+File size: 256 MiB
+Write time: 0.1223 seconds
+Read time: 0.1886 seconds
+SHA-256: f333d79a407c53df810df7153e4c674afb4ecf3c4a9401ea831ddf4e2a4b1ec9
+Outer wall time: 0.33 seconds

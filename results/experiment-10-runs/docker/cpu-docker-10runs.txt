@@ -1,0 +1,50 @@
+===== docker cpu run 1 =====
+Iterations: 500000
+Elapsed seconds: 1.1736
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.47 seconds
+===== docker cpu run 2 =====
+Iterations: 500000
+Elapsed seconds: 1.1717
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.38 seconds
+===== docker cpu run 3 =====
+Iterations: 500000
+Elapsed seconds: 1.1754
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.40 seconds
+===== docker cpu run 4 =====
+Iterations: 500000
+Elapsed seconds: 1.1710
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.38 seconds
+===== docker cpu run 5 =====
+Iterations: 500000
+Elapsed seconds: 1.1674
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.38 seconds
+===== docker cpu run 6 =====
+Iterations: 500000
+Elapsed seconds: 1.1743
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.38 seconds
+===== docker cpu run 7 =====
+Iterations: 500000
+Elapsed seconds: 1.1760
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.40 seconds
+===== docker cpu run 8 =====
+Iterations: 500000
+Elapsed seconds: 1.1793
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.40 seconds
+===== docker cpu run 9 =====
+Iterations: 500000
+Elapsed seconds: 1.1716
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.39 seconds
+===== docker cpu run 10 =====
+Iterations: 500000
+Elapsed seconds: 1.1673
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.38 seconds

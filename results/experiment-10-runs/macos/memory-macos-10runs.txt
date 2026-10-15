@@ -1,0 +1,40 @@
+===== macOS memory run 1 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 2 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 3 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 4 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 5 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 6 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 7 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 8 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 9 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+===== macOS memory run 10 =====
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536

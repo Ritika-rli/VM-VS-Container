@@ -1,0 +1,66 @@
+macOS host memory run 1
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+        3.20 real         1.07 user         0.08 sys
+           283967488  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+               17778  page reclaims
+                 398  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                  34  voluntary context switches
+                 265  involuntary context switches
+         15941683220  instructions retired
+          2369050747  cycles elapsed
+           274645616  peak memory footprint
+macOS host memory run 2
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+        3.16 real         1.07 user         0.06 sys
+           283983872  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+               18174  page reclaims
+                   0  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                 864  involuntary context switches
+         15930257090  instructions retired
+          2327759212  cycles elapsed
+           274645616  peak memory footprint
+macOS host memory run 3
+Allocated memory: 256 MiB
+Bytes allocated: 268435456
+Checksum: 65536
+        3.15 real         1.07 user         0.06 sys
+           283967488  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+               18145  page reclaims
+                  29  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  57  involuntary context switches
+         15940096097  instructions retired
+          2361507792  cycles elapsed
+           274629232  peak memory footprint

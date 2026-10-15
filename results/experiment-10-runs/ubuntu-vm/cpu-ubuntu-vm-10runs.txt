@@ -1,0 +1,50 @@
+===== ubuntu-vm cpu run 1 =====
+Iterations: 500000
+Elapsed seconds: 1.1414
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.15 seconds
+===== ubuntu-vm cpu run 2 =====
+Iterations: 500000
+Elapsed seconds: 1.1476
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.16 seconds
+===== ubuntu-vm cpu run 3 =====
+Iterations: 500000
+Elapsed seconds: 1.1427
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.15 seconds
+===== ubuntu-vm cpu run 4 =====
+Iterations: 500000
+Elapsed seconds: 1.1428
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.15 seconds
+===== ubuntu-vm cpu run 5 =====
+Iterations: 500000
+Elapsed seconds: 1.1467
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.16 seconds
+===== ubuntu-vm cpu run 6 =====
+Iterations: 500000
+Elapsed seconds: 1.1446
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.15 seconds
+===== ubuntu-vm cpu run 7 =====
+Iterations: 500000
+Elapsed seconds: 1.1919
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.20 seconds
+===== ubuntu-vm cpu run 8 =====
+Iterations: 500000
+Elapsed seconds: 1.1542
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.16 seconds
+===== ubuntu-vm cpu run 9 =====
+Iterations: 500000
+Elapsed seconds: 1.1539
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.16 seconds
+===== ubuntu-vm cpu run 10 =====
+Iterations: 500000
+Elapsed seconds: 1.1646
+Checksum: 2ed5a911393aabd338a4a166fed5178ead46e67a7084fd64963e5662bad5e742
+Outer wall time: 1.18 seconds
